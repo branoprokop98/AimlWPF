@@ -1,0 +1,33 @@
+<UserControl x:Class="AimlWPF.Views.editAimlObject"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AimlWPF"
+             xmlns:viewModels="clr-namespace:AimlWPF.ViewModels"
+             xmlns:views="clr-namespace:AimlWPF.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <DataTemplate x:Name="addAimlObjectTemplate" DataType="{x:Type viewModels:AddAimlObject}">
+            <views:addAimlObject DataContext="{Binding}"/>
+        </DataTemplate>
+        <DataTemplate x:Name="editAimlObjectTemplate" DataType="{x:Type viewModels:EditAimlObject}">
+            <views:editAimlObject DataContext="{Binding}"/>
+        </DataTemplate>
+        <!--<DataTemplate x:Name="editFormTemplate" DataType="{x:Type viewModels:EditAimlForm}">
+            <views:editAimlForm DataContext="{Binding}"/>
+        </DataTemplate>-->
+    </UserControl.Resources>
+
+    <Grid Loaded="loadDatabase">
+        <TextBox x:Name="SearchBoxPattern" HorizontalAlignment="Center" Margin="0,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="222" FontSize="16" TextChanged="findByPattern"/>
+        <TextBox x:Name="SearchBoxTemplate" HorizontalAlignment="Center" Margin="0,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="222" FontSize="16" TextChanged="findByTemplate"/>
+        <DataGrid x:Name="databaseView" Margin="76,107,76,76" ScrollViewer.VerticalScrollBarVisibility="Visible" AutomationProperties.Name="databaseView" IsReadOnly="True" CanUserDeleteRows="False" CanUserAddRows="False"/>
+        <Button Content="Next" HorizontalAlignment="Right" Margin="0,0,76,36" VerticalAlignment="Bottom" Height="35" Width="83" Click="button_Clicked"/>
+        <Label Content="Find by sentence: " HorizontalAlignment="Left" Margin="120,10,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Find by answer: " HorizontalAlignment="Left" Margin="133,44,0,0" VerticalAlignment="Top" FontSize="16"/>
+
+    </Grid>
+</UserControl>

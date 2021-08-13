@@ -1,0 +1,17 @@
+<Window x:Class="AimlWPF.Views.CategoryView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AimlWPF.Views"
+        xmlns:viewModels="clr-namespace:AimlWPF.ViewModels"
+        xmlns:views="clr-namespace:AimlWPF.Views"
+        mc:Ignorable="d"
+        Title="Export category" Height="234" Width="370" Loaded="initCategoriesComboList" MinHeight="234" MinWidth="370">
+    <Grid>
+        <ComboBox x:Name="CategoryComboBox" HorizontalAlignment="Center" Margin="0,46,0,0" VerticalAlignment="Top" Width="121"/>
+        <Label Content="Category: " HorizontalAlignment="Center" Margin="-190,44,0,0" VerticalAlignment="Top"/>
+        <Button Content="OK" HorizontalAlignment="Center" Margin="0,122,0,0" VerticalAlignment="Top" Height="31" Width="63" Click="exportToFile"/>
+
+    </Grid>
+</Window>
