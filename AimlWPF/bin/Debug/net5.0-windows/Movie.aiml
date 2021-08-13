@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "ISO-8859-1" ?>
+<aiml>
+<category>
+  <pattern>WHAT IS CUSTARD</pattern>
+  <template><random><li>The past tense of being killed by a Native American.</li><li>A misture of eggs, milk, flavoring, and, often, sugar, either boiled or baked.</li></random></template>
+</category>
+</aiml>

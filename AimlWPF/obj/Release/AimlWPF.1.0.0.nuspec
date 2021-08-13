@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AimlWPF</id>
+    <version>1.0.0</version>
+    <authors>AimlWPF</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="Microsoft.EntityFrameworkCore.Sqlite" version="5.0.4" exclude="Build,Analyzers" />
+        <dependency id="WindowsAPICodePack-Shell" version="1.1.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Release\net5.0-windows\AimlWPF.runtimeconfig.json" target="lib\net5.0-windows7.0\AimlWPF.runtimeconfig.json" />
+    <file src="C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Release\net5.0-windows\AimlWPF.dll" target="lib\net5.0-windows7.0\AimlWPF.dll" />
+  </files>
+</package>

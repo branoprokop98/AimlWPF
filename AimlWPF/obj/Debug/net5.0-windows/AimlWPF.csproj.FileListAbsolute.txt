@@ -1,0 +1,74 @@
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\addAimlObject.g.cs
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\CategoryView.g.cs
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\editAimlObject.g.cs
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\NewCategory.g.cs
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\TestWindow.g.cs
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\addAimlObject.baml
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\CategoryView.baml
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\editAimlObject.baml
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\NewCategory.baml
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\TestWindow.baml
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\AimlWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\AimlWPF.AssemblyInfoInputs.cache
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\AimlWPF.AssemblyInfo.cs
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\AimlWPF.csproj.CoreCompileInputs.cache
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\AimlWPF.csproj.CopyComplete
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\AimlWPF.genruntimeconfig.cache
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\DeleteCategoryView.g.cs
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Views\DeleteCategoryView.baml
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\AimlWPF.csprojAssemblyReference.cache
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Aiml Editor.exe
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Aiml Editor.deps.json
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Aiml Editor.runtimeconfig.json
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Aiml Editor.runtimeconfig.dev.json
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Aiml Editor.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\ref\Aiml Editor.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\bin\Debug\net5.0-windows\Aiml Editor.pdb
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Aiml Editor_MarkupCompile.cache
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Aiml Editor_MarkupCompile.lref
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Aiml Editor.g.resources
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Aiml Editor.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\ref\Aiml Editor.dll
+C:\Users\Branislav\source\repos\AimlWPF\AimlWPF\obj\Debug\net5.0-windows\Aiml Editor.pdb
